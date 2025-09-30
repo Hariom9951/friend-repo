@@ -1,0 +1,2 @@
+# friend-repo
+This is a repo made for colab work(delete kr de)
